@@ -33,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0062-unique-paths) |
+## Array
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0033-search-in-rotated-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
