@@ -57,8 +57,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0301-remove-invalid-parentheses) |
 ## Binary Tree
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
+## String
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0301-remove-invalid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
