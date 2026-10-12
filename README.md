@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0063-unique-paths-ii) |
 ## Combinatorics
@@ -65,9 +66,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0032-longest-valid-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0301-remove-invalid-parentheses) |
 ## Backtracking
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0301-remove-invalid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0032-longest-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
