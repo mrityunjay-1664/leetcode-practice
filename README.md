@@ -41,11 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0063-unique-paths-ii](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0063-unique-paths-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0713-subarray-product-less-than-k](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0713-subarray-product-less-than-k](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
 ## Matrix
 |  |
 | ------- |
@@ -80,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0032-longest-valid-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
