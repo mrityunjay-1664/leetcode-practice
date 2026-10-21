@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0032-longest-valid-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0301-remove-invalid-parentheses) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Backtracking
 |  |
 | ------- |
