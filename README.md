@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Combinatorics
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0713-subarray-product-less-than-k](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0063-unique-paths-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Tree
 |  |
 | ------- |
@@ -93,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 <!---LeetCode Topics End-->
