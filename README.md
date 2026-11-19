@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0152-maximum-product-subarray) |
+| [0516-longest-palindromic-subsequence](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0516-longest-palindromic-subsequence) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Combinatorics
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0032-longest-valid-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0301-remove-invalid-parentheses) |
+| [0516-longest-palindromic-subsequence](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0516-longest-palindromic-subsequence) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Backtracking
 |  |
