@@ -66,15 +66,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0301-remove-invalid-parentheses) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## String
 |  |
 | ------- |
@@ -110,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0055-jump-game) |
+## Depth-First Search
+|  |
+| ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
