@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0032-longest-valid-parentheses) |
+| [0055-jump-game](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0033-search-in-rotated-sorted-array) |
+| [0055-jump-game](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0063-unique-paths-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/3882-minimum-xor-path-in-a-grid) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/mrityunjay-1664/leetcode-practice/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
